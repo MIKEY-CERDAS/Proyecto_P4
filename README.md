@@ -20,6 +20,8 @@ En esta vista , el usuario puede ingresar su correo electrónico y contraseña p
 
 [![Imagen-de-Whats-App-2025-04-20-a-las-20-07-46-d1012f45.jpg](https://i.postimg.cc/pVSGVdhm/Imagen-de-Whats-App-2025-04-20-a-las-20-07-46-d1012f45.jpg)](https://postimg.cc/LhzBN2VS)
 
+Esta pantalla permite al usuario crear una nueva cuenta proporcionando su nombre, correo electrónico contraseña y repetir contraseña, el sistema valida los datos antes de registrarlo.
+
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
 You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
