@@ -16,17 +16,9 @@ Esta es una aplicacion desarrollada con las siguientes tecnologías Laravel como
 Este módulo forma parte del sistema 'Materiales Don Luis' y  permite a los usuarios registrarse o iniciar sesión de manera segura utilizando Laravel.
 En esta vista , el usuario puede ingresar su correo electrónico y contraseña para acceder al sistema. También se ofrece la opción de 'Recordarme'.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## Vista de Registro de Usuario (Sing Up)
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Learning Laravel
+[![Imagen-de-Whats-App-2025-04-20-a-las-20-07-46-d1012f45.jpg](https://i.postimg.cc/pVSGVdhm/Imagen-de-Whats-App-2025-04-20-a-las-20-07-46-d1012f45.jpg)](https://postimg.cc/LhzBN2VS)
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
