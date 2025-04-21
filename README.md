@@ -9,7 +9,7 @@ Es una aplicacion basada en Inventario de Materiales y contiene lo siguiente un 
 
 Esta es una aplicacion desarrollada con las siguientes tecnologías Laravel como framework principal, Filament como libreria asociada a Laravel y Docker para montar el proyecto en contenedores donde tambien se integra mysql como gestor de base de datos.
 
-## Vista del Login de Ingreso
+## Vista de Iniciar Sesión (Login)
 
 [![Imagen-de-Whats-App-2025-04-20-a-las-20-07-47-c6ae6808.jpg](https://i.postimg.cc/HkD65PtH/Imagen-de-Whats-App-2025-04-20-a-las-20-07-47-c6ae6808.jpg)](https://postimg.cc/N5D8vDVP)
 
