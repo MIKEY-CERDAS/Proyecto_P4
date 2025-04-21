@@ -64,6 +64,16 @@ Esta vista cuenta con la tabla donde se encuentra el desgloce con el nombre del 
 
 Esta es la vista es para cambiar el material y el usuario lograra entrar cuando presione el boton edit al final de la fila de cada material en la vista del carrito donde se encuentra el desgloce de los materiales seleccionados por el usuario, podra cambiar el material, cambiar la cantidad del material que desea llevary se mostrara el total a pagar de dicho material.
 
-## 
+## Vista de Pedidos
+
+[![Imagen-de-Whats-App-2025-04-20-a-las-20-07-47-3b22cb5f.jpg](https://i.postimg.cc/D0HkTds6/Imagen-de-Whats-App-2025-04-20-a-las-20-07-47-3b22cb5f.jpg)](https://postimg.cc/tn3md6Bn)
+
+## Vista Crear Pedidos 
+
+[![Imagen-de-Whats-App-2025-04-20-a-las-20-07-47-3a7541c3.jpg](https://i.postimg.cc/VNDhwWPt/Imagen-de-Whats-App-2025-04-20-a-las-20-07-47-3a7541c3.jpg)](https://postimg.cc/FfkpgcRF)
+
+## Vista Detalle de Pedidos
+
+[![Imagen-de-Whats-App-2025-04-20-a-las-20-07-47-65635b07.jpg](https://i.postimg.cc/vT62WRg7/Imagen-de-Whats-App-2025-04-20-a-las-20-07-47-65635b07.jpg)](https://postimg.cc/Zv4LSML0)
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
