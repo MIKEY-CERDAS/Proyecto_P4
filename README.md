@@ -34,7 +34,7 @@ Sirve como una vista principal o resumen del sistema. Es lo primero que los usua
 
 En el apartado de materiales se presentan los siguientes elementos: Nombre, Descripción, Cantidad disponible y Precio por unidad. Cada uno de estos campos puede ser editado individualmente, permitiendo modificar los registros según sea necesario. Además, se incluye una opción para agregar materiales al carrito, y como funcionalidad final, se dispone de un botón para registrar o crear un nuevo material. 
 
-## Crear Materiales
+## Vista Crear Materiales
 
 [![Imagen-de-Whats-App-2025-04-20-a-las-20-07-46-6e385a99.jpg](https://i.postimg.cc/SQLPd4JR/Imagen-de-Whats-App-2025-04-20-a-las-20-07-46-6e385a99.jpg)](https://postimg.cc/hhjM4H8R)
 
@@ -44,14 +44,20 @@ Seguidamente, está el campo de Cantidad disponible, en el cual se especifica la
 
 Finalmente, se encuentran dos botones: Crear y Cancelar. El botón Crear guarda la información ingresada y la registra en la tabla correspondiente, haciéndola visible en el apartado de materiales. Por otro lado, el botón Cancelar limpia todos los campos, eliminando cualquier dato ingresado previamente.
 
-## Code of Conduct
+## Vista del Carrito
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+[![Imagen-de-Whats-App-2025-04-20-a-las-20-07-46-96494a4b.jpg](https://i.postimg.cc/j2q4vGFn/Imagen-de-Whats-App-2025-04-20-a-las-20-07-46-96494a4b.jpg)](https://postimg.cc/cgj3L5Zd)
 
-## Security Vulnerabilities
+Esta Pantalla es un desgloce de todos los materiales que se encuentren en stock dentro del sistema y tambien los materiales que el usuario desee crear en el momento antes de pasar al detalle de pedido para eso en la pantalla hay un boton llamado "New Item" que redirigira al usuario a la vista de materiales para crear un nuevo pedido.
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+Esta vista cuenta con la tabla donde se encuentra el desgloce con el nombre del material, la cantidad que el usuario desea ingresar y el precio total dependiendo de la cantidad de materiales, de igual forma cada linea al final cuenta con una accion de editar el producto si es que el usuario ya no se siente conforme con lo que había ingresado anteriormente.
 
-## License
+## Vista Editar Material
+
+[![Imagen-de-Whats-App-2025-04-20-a-las-20-07-46-6b3f0d94.jpg](https://i.postimg.cc/QtFTthwb/Imagen-de-Whats-App-2025-04-20-a-las-20-07-46-6b3f0d94.jpg)](https://postimg.cc/R6zFp5M6)
+
+Esta es la vista es para editar el material y el usuario lograra entrar cuando presione el boton edit al final de la fila de cada material en la vista del carrito donde se encuentra el desgloce de los materiales seleccionados por el usuario.
+
+## 
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
