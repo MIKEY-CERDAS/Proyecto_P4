@@ -22,15 +22,11 @@ En esta vista , el usuario puede ingresar su correo electrónico y contraseña p
 
 Esta pantalla permite al usuario crear una nueva cuenta proporcionando su nombre, correo electrónico contraseña y repetir contraseña, el sistema valida los datos antes de registrarlo.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+## Vista del Dashboard
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+[![Imagen-de-Whats-App-2025-04-20-a-las-20-07-46-41e81c47.jpg](https://i.postimg.cc/ZKtTB4Xq/Imagen-de-Whats-App-2025-04-20-a-las-20-07-46-41e81c47.jpg)](https://postimg.cc/JtxwSVrw)
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+Sirve como una vista principal o resumen del sistema. Es lo primero que los usuarios ven cuando inician sesión en el panel administrativo, y su función principal es mostrar información clave o accesos rápidos de forma visual y resumida. En este caso nos muestra quien esta registrado, edit  materiales- En esta interfaz podemos editar los materiales, los cuales después podemos guardarlos cambios y podemos borrar. Crear pedidos- En la interfaz para crear pedidos dentro del proyecto, el usuario debe seleccionar un material y verá información como el nombre del material, su descripción, la cantidad disponible en stock y el precio por unidad. Además, deberá ingresar la cantidad que desea pedir y el precio por unidad. Para asegurar la validez de los datos, se establecen reglas: la cantidad debe ser un número entero y mínimo 1, por lo tanto, si el usuario ingresa un número decimal, un texto o un valor menor que 1, el sistema mostrará un mensaje de error indicando que debe ingresar un número entero mayor o igual a uno. De la misma manera, el precio por unidad también debe ser mínimo 1, y si se ingresa un valor menor, se mostrará un mensaje de advertencia correspondiente. Estas validaciones garantizan que los pedidos sean correctos y que no se procesen datos inválidos.
 
 ### Premium Partners
 
