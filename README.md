@@ -4,7 +4,12 @@
     <b>Documenacion Proyecto Final Programación IV</b>
 </p>
 
-## About Laravel
+Este es el Proyecto Final de Programación IV, aquí se detallara y explicara la funcionalidad de la aplicación.
+Es una aplicacion basada en Inventario de Materiales y contiene lo siguiente un login, un registro de usuario, un dashboard, una sección para crear el material que el usuario desea crear, una sección de pedidos donde se registraran todos los pedidos que el usuario haya ingresado con su repectivo detalle de pedido.
+
+Esta es una aplicacion desarrollada con las siguientes tecnologías Laravel como framework principal, Filament como libreria asociada a Laravel y Docker para montar el proyecto en contenedores donde tambien se integra mysql como gestor de base de datos.
+
+## Vista del 
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
