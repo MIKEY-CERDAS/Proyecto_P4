@@ -68,12 +68,26 @@ Esta es la vista es para cambiar el material y el usuario lograra entrar cuando 
 
 [![Imagen-de-Whats-App-2025-04-20-a-las-20-07-47-3b22cb5f.jpg](https://i.postimg.cc/D0HkTds6/Imagen-de-Whats-App-2025-04-20-a-las-20-07-47-3b22cb5f.jpg)](https://postimg.cc/tn3md6Bn)
 
+Esta vista muestra el listado de pedidos realizados por los usuarios dentro del sistema 'Materiales
+Don Luis'. Desde aquí se puede acceder a los detalles de cada pedido y crear uno nuevo.
+Funcionalidades:
+- Visualización de una lista de pedidos, con la fecha de compra y el precio pagado.
+- Enlace para ver los detalles de cada pedido.
+- Paginación de resultados.
+- Botón para crear un nuevo pedido ('New pedidos').
+Esta vista se conecta con la base de datos para mostrar los registros filtrados por usuario. Está
+protegida por autenticación y solo es accesible si el usuario ha iniciado sesión.
+
 ## Vista Crear Pedidos 
 
 [![Imagen-de-Whats-App-2025-04-20-a-las-20-07-47-3a7541c3.jpg](https://i.postimg.cc/VNDhwWPt/Imagen-de-Whats-App-2025-04-20-a-las-20-07-47-3a7541c3.jpg)](https://postimg.cc/FfkpgcRF)
 
+Crear pedidos- En la interfaz para crear pedidos dentro del proyecto, el usuario debe seleccionar un material y verá información como el nombre del material, su descripción, la cantidad disponible en stock y el precio por unidad. Además, deberá ingresar la cantidad que desea pedir y el precio por unidad. Para asegurar la validez de los datos, se establecen reglas: la cantidad debe ser un número entero y mínimo 1, por lo tanto, si el usuario ingresa un número decimal, un texto o un valor menor que 1, el sistema mostrará un mensaje de error indicando que debe ingresar un número entero mayor o igual a uno. De la misma manera, el precio por unidad también debe ser mínimo 1, y si se ingresa un valor menor, se mostrará un mensaje de advertencia correspondiente. Estas validaciones garantizan que los pedidos sean correctos y que no se procesen datos inválidos.
+
 ## Vista Detalle de Pedidos
 
 [![Imagen-de-Whats-App-2025-04-20-a-las-20-07-47-65635b07.jpg](https://i.postimg.cc/vT62WRg7/Imagen-de-Whats-App-2025-04-20-a-las-20-07-47-65635b07.jpg)](https://postimg.cc/Zv4LSML0)
+
+En la sección de "Ver Detalles" podemos visualizar la información específica de un pedido realizado por un cliente. Se muestra el correo electrónico del cliente utilizado para ingresar al sistema, así como la fecha del pedido y el total a pagar. Más abajo, en el apartado de tabla, se presentan los materiales incluidos en el pedido. Esta tabla contiene los siguientes campos: nombre del material, que lista los materiales adquiridos; cantidad, que indica cuántas unidades de cada material fueron compradas; y subtotal, que muestra el resultado de multiplicar el precio unitario del material por la cantidad comprada. Por ejemplo, si se compran 2 aceites, se mostrará el precio total de esos dos aceites; si se adquieren 3 unidades de sal, se calculará el total correspondiente solo a esas 3 sales. Finalmente, en el campo de total, se realiza la suma global de todos los subtotales anteriores, representando el monto final del pedido. Como último elemento, se incluye un botón para volver a la lista, el cual permite regresar a la vista general de pedidos.
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
