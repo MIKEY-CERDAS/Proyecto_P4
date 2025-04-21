@@ -44,6 +44,10 @@ Seguidamente, está el campo de Cantidad disponible, en el cual se especifica la
 
 Finalmente, se encuentran dos botones: Crear y Cancelar. El botón Crear guarda la información ingresada y la registra en la tabla correspondiente, haciéndola visible en el apartado de materiales. Por otro lado, el botón Cancelar limpia todos los campos, eliminando cualquier dato ingresado previamente.
 
+## Vista editar un Material 
+
+[![Imagen-de-Whats-App-2025-04-20-a-las-20-07-46-2556e319.jpg](https://i.postimg.cc/qMJpXjMf/Imagen-de-Whats-App-2025-04-20-a-las-20-07-46-2556e319.jpg)](https://postimg.cc/G9f0bPyz)
+
 ## Vista del Carrito
 
 [![Imagen-de-Whats-App-2025-04-20-a-las-20-07-46-96494a4b.jpg](https://i.postimg.cc/j2q4vGFn/Imagen-de-Whats-App-2025-04-20-a-las-20-07-46-96494a4b.jpg)](https://postimg.cc/cgj3L5Zd)
