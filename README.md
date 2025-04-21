@@ -13,8 +13,8 @@ Esta es una aplicacion desarrollada con las siguientes tecnologías Laravel como
 
 [![Imagen-de-Whats-App-2025-04-20-a-las-20-07-47-c6ae6808.jpg](https://i.postimg.cc/HkD65PtH/Imagen-de-Whats-App-2025-04-20-a-las-20-07-47-c6ae6808.jpg)](https://postimg.cc/N5D8vDVP)
 
-
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Este módulo forma parte del sistema 'Materiales Don Luis' y  permite a los usuarios registrarse o iniciar sesión de manera segura utilizando Laravel.
+En esta vista , el usuario puede ingresar su correo electrónico y contraseña para acceder al sistema. También se ofrece la opción de 'Recordarme'.
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
