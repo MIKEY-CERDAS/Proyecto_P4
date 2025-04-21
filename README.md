@@ -9,7 +9,7 @@ Es una aplicacion basada en Inventario de Materiales y contiene lo siguiente un 
 
 Esta es una aplicacion desarrollada con las siguientes tecnologías Laravel como framework principal, Filament como libreria asociada a Laravel y Docker para montar el proyecto en contenedores donde tambien se integra mysql como gestor de base de datos.
 
-## Vista del 
+## Vista del Login de Ingreso
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
