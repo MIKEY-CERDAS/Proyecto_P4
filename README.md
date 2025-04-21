@@ -48,6 +48,8 @@ Finalmente, se encuentran dos botones: Crear y Cancelar. El botón Crear guarda 
 
 [![Imagen-de-Whats-App-2025-04-20-a-las-20-07-46-2556e319.jpg](https://i.postimg.cc/qMJpXjMf/Imagen-de-Whats-App-2025-04-20-a-las-20-07-46-2556e319.jpg)](https://postimg.cc/G9f0bPyz)
 
+Esta es la vista es para editar el material doonde el usuario podra editar un material si asI lo desea podra cambiar o escoger otro nombre para un producto, podra editar la cantidad que se desea haya en stock, cambiar si desea cambiar el precio a cada material por unidad y tambien aportar un apequeña descripción al material que se este editando.
+
 ## Vista del Carrito
 
 [![Imagen-de-Whats-App-2025-04-20-a-las-20-07-46-96494a4b.jpg](https://i.postimg.cc/j2q4vGFn/Imagen-de-Whats-App-2025-04-20-a-las-20-07-46-96494a4b.jpg)](https://postimg.cc/cgj3L5Zd)
@@ -60,7 +62,7 @@ Esta vista cuenta con la tabla donde se encuentra el desgloce con el nombre del 
 
 [![Imagen-de-Whats-App-2025-04-20-a-las-20-07-46-6b3f0d94.jpg](https://i.postimg.cc/QtFTthwb/Imagen-de-Whats-App-2025-04-20-a-las-20-07-46-6b3f0d94.jpg)](https://postimg.cc/R6zFp5M6)
 
-Esta es la vista es para editar el material y el usuario lograra entrar cuando presione el boton edit al final de la fila de cada material en la vista del carrito donde se encuentra el desgloce de los materiales seleccionados por el usuario.
+Esta es la vista es para cambiar el material y el usuario lograra entrar cuando presione el boton edit al final de la fila de cada material en la vista del carrito donde se encuentra el desgloce de los materiales seleccionados por el usuario, podra cambiar el material, cambiar la cantidad del material que desea llevary se mostrara el total a pagar de dicho material.
 
 ## 
 
