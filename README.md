@@ -36,7 +36,13 @@ En el apartado de materiales se presentan los siguientes elementos: Nombre, Desc
 
 ## Crear Materiales
 
+[![Imagen-de-Whats-App-2025-04-20-a-las-20-07-46-6e385a99.jpg](https://i.postimg.cc/SQLPd4JR/Imagen-de-Whats-App-2025-04-20-a-las-20-07-46-6e385a99.jpg)](https://postimg.cc/hhjM4H8R)
 
+En la pantalla de crear materiales, se presentan varios campos para el registro de un nuevo material. El primero es Nombre del material, donde se ingresa el nombre del artículo que se desea registrar. A continuación, se encuentra el campo de Descripción del material, destinado a brindar una breve descripción relacionada con el material ingresado. 
+
+Seguidamente, está el campo de Cantidad disponible, en el cual se especifica la cantidad de unidades que estarán disponibles. Luego, el campo de Precio por unidad permite asignar el valor individual del material. 
+
+Finalmente, se encuentran dos botones: Crear y Cancelar. El botón Crear guarda la información ingresada y la registra en la tabla correspondiente, haciéndola visible en el apartado de materiales. Por otro lado, el botón Cancelar limpia todos los campos, eliminando cualquier dato ingresado previamente.
 
 ## Code of Conduct
 
