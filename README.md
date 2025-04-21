@@ -22,26 +22,21 @@ En esta vista , el usuario puede ingresar su correo electrónico y contraseña p
 
 Esta pantalla permite al usuario crear una nueva cuenta proporcionando su nombre, correo electrónico contraseña y repetir contraseña, el sistema valida los datos antes de registrarlo.
 
-## Vista del Dashboard
+## Vista del Dashboard (Panel de Control)
 
 [![Imagen-de-Whats-App-2025-04-20-a-las-20-07-46-41e81c47.jpg](https://i.postimg.cc/ZKtTB4Xq/Imagen-de-Whats-App-2025-04-20-a-las-20-07-46-41e81c47.jpg)](https://postimg.cc/JtxwSVrw)
 
 Sirve como una vista principal o resumen del sistema. Es lo primero que los usuarios ven cuando inician sesión en el panel administrativo, y su función principal es mostrar información clave o accesos rápidos de forma visual y resumida. En este caso nos muestra quien esta registrado, edit  materiales- En esta interfaz podemos editar los materiales, los cuales después podemos guardarlos cambios y podemos borrar. Crear pedidos- En la interfaz para crear pedidos dentro del proyecto, el usuario debe seleccionar un material y verá información como el nombre del material, su descripción, la cantidad disponible en stock y el precio por unidad. Además, deberá ingresar la cantidad que desea pedir y el precio por unidad. Para asegurar la validez de los datos, se establecen reglas: la cantidad debe ser un número entero y mínimo 1, por lo tanto, si el usuario ingresa un número decimal, un texto o un valor menor que 1, el sistema mostrará un mensaje de error indicando que debe ingresar un número entero mayor o igual a uno. De la misma manera, el precio por unidad también debe ser mínimo 1, y si se ingresa un valor menor, se mostrará un mensaje de advertencia correspondiente. Estas validaciones garantizan que los pedidos sean correctos y que no se procesen datos inválidos.
 
-### Premium Partners
+## Vista de Materiales
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development/)**
-- **[Active Logic](https://activelogic.com)**
+[![Imagen-de-Whats-App-2025-04-20-a-las-20-07-46-6aa6c857.jpg](https://i.postimg.cc/Y2Q5Pgyp/Imagen-de-Whats-App-2025-04-20-a-las-20-07-46-6aa6c857.jpg)](https://postimg.cc/rzFZ0dkb)
 
-## Contributing
+En el apartado de materiales se presentan los siguientes elementos: Nombre, Descripción, Cantidad disponible y Precio por unidad. Cada uno de estos campos puede ser editado individualmente, permitiendo modificar los registros según sea necesario. Además, se incluye una opción para agregar materiales al carrito, y como funcionalidad final, se dispone de un botón para registrar o crear un nuevo material. 
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+## Crear Materiales
+
+
 
 ## Code of Conduct
 
